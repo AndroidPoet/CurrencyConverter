@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.androidpoet.currencyconverter.app-mergeDebugResources-58:/values-ca/values-ca.xml",
+            "outputFile": "com.androidpoet.currencyconverter.app-mergeDebugResources-60:/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ranbir Singh\\.gradle\\caches\\transforms-3\\03308db957437108e6f42e3b28108c94\\transformed\\core-1.8.0\\res\\values-ca\\values-ca.xml",
