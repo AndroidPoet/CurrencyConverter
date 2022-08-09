@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.androidpoet.currencyconverter.app-mergeDebugResources-60:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ranbir Singh\\.gradle\\caches\\transforms-3\\c4ca79e10f1046c26bff034dd3e2604f\\transformed\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

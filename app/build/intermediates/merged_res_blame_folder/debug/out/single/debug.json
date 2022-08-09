@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ves.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ves.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xau.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xau.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_t_ry.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/t_ry.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mnt.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mnt.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_hrk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/hrk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_awg.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/awg.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_rwf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/rwf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_syp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/syp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gnf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gnf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_btn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/btn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_imp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/imp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_nok.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/nok.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kes.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kes.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mga.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mga.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_srd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/srd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_eur.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/eur.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kpw.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kpw.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xaf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xaf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_zwl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/zwl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_stn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/stn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ngn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ngn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xpt.jpg.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xpt.jpg"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sek.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sek.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_azn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/azn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_zmw.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/zmw.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_btc.jpg.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/btc.jpg"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_crc.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/crc.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gel.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gel.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mur.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mur.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ils.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ils.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_jod.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/jod.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_myr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/myr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_huf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/huf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gyd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gyd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_khr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/khr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_pyg.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/pyg.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mop.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mop.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_uyu.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/uyu.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_svc.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/svc.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_clf.gif.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/clf.gif"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_pkr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/pkr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_hkd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/hkd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_lkr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/lkr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_tzs.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/tzs.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xpf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xpf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mkd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mkd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bam.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bam.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kyd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kyd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_transfer.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/transfer.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mvr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mvr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ltl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ltl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_pen.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/pen.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_lyd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/lyd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_twd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/twd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_top.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/top.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_jpy.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/jpy.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_wst.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/wst.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_pab.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/pab.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bgn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bgn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_vef.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/vef.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bob.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bob.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cuc.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cuc.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_djf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/djf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sle.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sle.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sos.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sos.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_uzs.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/uzs.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ugx.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ugx.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_uah.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/uah.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_all.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/all.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gmd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gmd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_nzd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/nzd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_yer.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/yer.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bnd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bnd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cop.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cop.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_dop.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/dop.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_nio.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/nio.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_isk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/isk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gtq.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gtq.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bif.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bif.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_afn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/afn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bmd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bmd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ars.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ars.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_chf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/chf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_amd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/amd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ang.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ang.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gbp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gbp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_php.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/php.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xag.jpg.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xag.jpg"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ron.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ron.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_czk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/czk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_lak.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/lak.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_shp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/shp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sar.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sar.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_aoa.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/aoa.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_nad.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/nad.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xdr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xdr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mad.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mad.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_idr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/idr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bzd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bzd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_rsd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/rsd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sgd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sgd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_jmd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/jmd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_pgk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/pgk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_pln.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/pln.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_dzd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/dzd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_jep.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/jep.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mro.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mro.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_fjd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/fjd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mxn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mxn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ern.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ern.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mwk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mwk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kwd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kwd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_zar.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/zar.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mdl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mdl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_omr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/omr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_etb.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/etb.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mmk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mmk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cny.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cny.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_fkp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/fkp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_thb.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/thb.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_usd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/usd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_tjs.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/tjs.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cup.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cup.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xof.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xof.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_krw.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/krw.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_clp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/clp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_lbp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/lbp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bdt.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bdt.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_lsl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/lsl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cdf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cdf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cad.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cad.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cve.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cve.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_inr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/inr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_byn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/byn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ttd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ttd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_aed.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/aed.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bwp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bwp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_std.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/std.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_gip.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/gip.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bhd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bhd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_cnh.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/cnh.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bbd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bbd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/xml_backup_rules.xml.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xcd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xcd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_szl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/szl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_scr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/scr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/xml_data_extraction_rules.xml.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_vnd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/vnd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_tnd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/tnd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kzt.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kzt.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_hnl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/hnl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_bsd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/bsd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_tmt.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/tmt.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sll.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sll.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_iqd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/iqd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ggp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ggp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ghs.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ghs.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_egp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/egp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_xpd.jpg.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/xpd.jpg"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_npr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/npr.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_try_t.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/try_t.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_sbd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/sbd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_ssp.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/ssp.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_dkk.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/dkk.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_htg.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/htg.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kmf.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kmf.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_brl.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/brl.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_kgs.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/kgs.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_lrd.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/lrd.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mru.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mru.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_qar.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/qar.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_vuv.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/vuv.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_aud.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/aud.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_rub.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/rub.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_mzn.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/mzn.png"
+    },
+    {
+        "merged": "com.androidpoet.currencyconverter.app-merged_res-62:/drawable_irr.png.flat",
+        "source": "com.androidpoet.currencyconverter.app-main-64:/drawable/irr.png"
+    }
+]

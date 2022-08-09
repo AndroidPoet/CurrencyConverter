@@ -11,6 +11,8 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
+import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -51,13 +53,12 @@ fun CurrencyList(
             ) {
                 Box(Modifier.fillMaxSize()) {
 
-                    val drawableId = remember(item.currency) {
-                        context.resources.getIdentifier(
-                            item.currency.lowercase(),
-                            "drawable",
-                            context.packageName
-                        )
-                    }
+                    val drawableId by derivedStateOf {context.resources.getIdentifier(
+                        item.currency.lowercase(),
+                        "drawable",
+                        context.packageName
+                    ) }
+
                     ConstraintLayout {
                         val (image, currency, name, symbol) = createRefs()
                         Image(
